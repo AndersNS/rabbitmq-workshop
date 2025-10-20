@@ -1,12 +1,9 @@
-# RabbitMQ Workshop - Order Processing Demo
+# RabbitMQ Workshop - TokenIssuedEvents
 
 A simple C# starter project demonstrating RabbitMQ message publishing and consuming using the RabbitMQ.Client library.
 
 - **Producer**: Sends messages to a RabbitMQ queue
 - **Consumer**: Receives and processes messages from the queue
-- **Durable queues**: Messages persist even if RabbitMQ restarts
-- **Manual acknowledgment**: Consumer explicitly acknowledges message processing
-- **Fair dispatch**: Messages are distributed evenly among consumers
 
 ## Running the Workshop
 
@@ -70,4 +67,3 @@ Try these scenarios:
 
 - [RabbitMQ Tutorials](https://www.rabbitmq.com/tutorials)
 - [RabbitMQ .NET Client Guide](https://www.rabbitmq.com/dotnet-api-guide.html)
-- [RabbitMQ Management Plugin](https://www.rabbitmq.com/management.html)
