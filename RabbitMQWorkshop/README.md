@@ -20,6 +20,9 @@ Access at management studio at: [http://localhost:15672](http://localhost:15672)
 
 (Username `guest`, Password `guest`)
 
+> [!TIP]
+> You may have to open an incognito/private browser window to access the management UI. Because of too many headers being set from previous localhost sessions.
+
 ### 2. Build the Project
 
 ```bash
