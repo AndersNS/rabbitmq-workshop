@@ -48,7 +48,7 @@ dotnet run
 
 Choose option `2` for Consumer mode. It will start receiving messages.
 
-### 5. Excrcises!
+### 5. Exercises!
 
 Try these scenarios:
 
