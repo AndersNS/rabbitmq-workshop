@@ -55,8 +55,8 @@ Try these scenarios:
 1. Start multiple consumers (run `dotnet run` and select option 2 in multiple terminals)
 2. Add a new field to the event
 3. Stop the consumer and send messages from producer
-   a. Start the consumer again - do messages come through?
-   b. What if you restart RabbitMQ while the consumer is stopped?
+   - Start the consumer again - do messages come through?
+   - What if you restart RabbitMQ while the consumer is stopped?
 4. Check the RabbitMQ Management UI to see queue statistics
 5. Create a consumer that only processes messages for specific tokentypes (Hint: Look at routing)
 6. Create a consumer that processes messages for specific tokentypes AND specific scopes (Hint: look at topics)
